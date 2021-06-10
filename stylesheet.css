@@ -62,15 +62,9 @@ a {
 
 .content {
   float: left;
-  width: 25%;
+  width: 30%;
 }
 
-.content-icon {
-  position: relative;
-}
-.content-icon img{
-  width: 10%;
-}
 .text-contents {
   width: 80%;
   display: inline-block;

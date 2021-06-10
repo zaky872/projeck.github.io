@@ -67,15 +67,16 @@ a {
 }
 
 .read {
-  padding: 15px 40px;
+  float: right;
+  padding: 5px 10px;
   background-color: #5dca88;
   cursor: pointer;
-  box-shadow: 0 7px #1a7940;
+  box-shadow: 0 3px #1a7940;
   margin-bottom: 5px;
 }
 
 .read:active {
   position: relative;
-  top: 7px;
+  top: 3px;
   box-shadow: none;
 }

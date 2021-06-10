@@ -14,7 +14,7 @@ a {
   background-image: url(chalkboard.jpg);
   background-size: cover;
   color: white;
-  padding: 100px 0px;
+  padding: 200px 0px 100px 0px;
 }
 .container {
   max-width: 1170px;
@@ -30,5 +30,5 @@ a {
   font-size: 50px
 }
 .judul p{
-  font-size: 30px;
+  font-size: 15px;
 }

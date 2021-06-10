@@ -42,7 +42,7 @@ a {
   display: none;
 }
 
-.lesson-wrapper {
+.program {
   padding-bottom: 80px;
   padding-left: 5%;
   padding-right: 5%;
@@ -50,30 +50,23 @@ a {
   text-align: center;
 }
 
-.heading {
+.judul {
   padding-top: 80px;
   padding-bottom: 50px;
   color: #5f5d60;
 }
 
-.heading h2 {
+.judul h2 {
   font-weight: normal;
 }
 
-.lesson {
+.content {
   float: left;
   width: 25%;
 }
 
-.lesson-icon {
+.content-icon {
   position: relative;
-}
-
-.lesson-icon p {
-  position: absolute;
-  top: 44%;
-  width: 100%;
-  color: white;
 }
 
 .text-contents {

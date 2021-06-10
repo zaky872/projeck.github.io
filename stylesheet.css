@@ -68,7 +68,9 @@ a {
 .content-icon {
   position: relative;
 }
-
+.content img{
+  width: 30%;
+}
 .text-contents {
   width: 80%;
   display: inline-block;

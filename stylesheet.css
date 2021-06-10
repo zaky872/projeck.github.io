@@ -13,9 +13,15 @@ a {
 .main{
   background-image: url(chalkboard.jpg);
   background-size: cover;
+  color: white;
+  padding: 100px 0px;
 }
 .container {
   max-width: 1170px;
   padding: 0 15px;
   margin: 0 auto;
+}
+.main h2{
+  letter-spacing: 5px;
+  margin-bottom: 15px;
 }

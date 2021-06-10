@@ -14,7 +14,7 @@ a {
   background-image: url(chalkboard.jpg);
   background-size: cover;
   color: white;
-  padding: 200px 0px 100px 0px;
+  padding: 200px 0px 150px 0px;
 }
 .container {
   max-width: 1170px;
@@ -27,8 +27,17 @@ a {
 .judul h2{
   letter-spacing: 5px;
   margin-bottom: 15px;
-  font-size: 50px
+  font-size: 50px;
 }
 .judul p{
   font-size: 15px;
+}
+.btn{
+  display: inline-block;
+}
+.more{
+  float: right;
+}
+.read{
+  background-color: green;
 }
